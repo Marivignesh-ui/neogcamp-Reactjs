@@ -1,0 +1,27 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+input{
+  padding:5px;
+  width:40%;
+  height: 30%;
+}
+header{
+  background-color: aqua;
+  padding:5px;
+  border-bottom-left-radius: 20px;
+  border-bottom-right-radius: 20px;
+}
+footer{
+  background-color: aqua;
+  border-top-left-radius:20px;
+  border-top-right-radius: 20px; 
+  position: relative;
+  bottom: 0px;
+  margin-bottom: 0px;
+  width:100%;
+}
+#root{
+  top:0px;
+}
